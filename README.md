@@ -1,4 +1,6 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+In this project, let's build a **Nxt Trendz - Shopping App** by applying the concepts we have learned till now.
+
+**You can use this app by clicking this Link https://faraznxtshop.ccbp.tech/ thanks**
 
 ### Refer to the video below:
 
