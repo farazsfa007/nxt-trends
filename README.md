@@ -1,4 +1,4 @@
-In this project, let's build a **Nxt Trendz - Shopping App** by applying the concepts we have learned till now.
+In this project, I have build a **Nxt Trendz - Shopping App**
 
 **You can use this app by clicking this Link https://faraznxtshop.ccbp.tech/ thanks**
 
